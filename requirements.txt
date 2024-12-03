@@ -1,0 +1,13 @@
+langchain
+pypdf
+ipykernel
+python-dotenv
+langchain_community
+sentence_transformers
+langchain_huggingface
+langchain-google-genai
+google-generativeai
+faiss-cpu
+streamlit
+langchain_groq
+langchain_core
